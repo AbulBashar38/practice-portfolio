@@ -81,6 +81,9 @@ section{
     background-image: url(images/dream-bg.png);
     background-position: right;
     box-shadow: 1px 10px 40px rgb(167, 187, 248);
+    
+
+    
   }
    #second-div{
        text-align: right;
@@ -89,4 +92,9 @@ section{
 #parageraph-style2{
     text-align: justify;
     text-decoration: none;
+}
+footer{
+    margin-top: 100px;
+    text-align: center;
+    color: orangered;
 }
