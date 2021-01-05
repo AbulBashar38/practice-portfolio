@@ -43,11 +43,16 @@ font-family: 'Russo One', sans-serif;
 }
 .first-benar{
     background-image: url(images/top-banner.png);
-    box-shadow: 0px 30px 60px rgb(135, 165, 255);
+    
 }
 section{
     height: 450px;
     background-repeat: no-repeat;
+    
+    margin-top: 100px;
+}
+#section1{
+    box-shadow: 10px 20px 60px rgb(38, 76, 190);
 }
 .work-button{
     text-decoration: none;
@@ -62,6 +67,26 @@ section{
       margin-top: 40px;
   }  
 
-    
-    
-
+  .second-div{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 3%;
+     
+  }
+  .second-div img{
+      width: 100%;
+  }
+  #section2{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    box-shadow: 1px 10px 40px rgb(167, 187, 248);
+  }
+   #second-div{
+       text-align: right;
+       margin-top: 50px;
+ }
+#parageraph-style2{
+    text-align: justify;
+    text-decoration: none;
+}
