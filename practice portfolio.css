@@ -1,7 +1,13 @@
+body{
+    margin: 0%;
+}
 #first-header{
     color: blue;
     text-align: center;
     font-size: 65px;
+    font-family: 'Hanalei Fill', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Russo One', sans-serif;
 }
 
 .head-font{
@@ -19,6 +25,10 @@
 }
 .colorful-name{
     color: rgb(255, 66, 19);
+    font-family: 'Titan One', cursive;
+}
+.new-font{
+    font-family: 'Titan One', cursive;
 }
 .first-div{
     width: 30%;
@@ -29,5 +39,29 @@
 }
 .first-div img{
     width: 100%;
+   margin-left: 40%; 
 }
+.first-benar{
+    background-image: url(images/top-banner.png);
+    box-shadow: 0px 30px 60px rgb(135, 165, 255);
+}
+section{
+    height: 450px;
+    background-repeat: no-repeat;
+}
+.work-button{
+    text-decoration: none;
+    background-image: linear-gradient(-45deg, rgb(255, 66, 19), rgb(246, 160, 138));
+    border-radius: 5px;
+    padding: 14px 25px;
+    color: snow;
+    font-weight: 700; 
+}
+  #work-button{
+      text-align: center;
+      margin-top: 40px;
+  }  
+
     
+    
+
