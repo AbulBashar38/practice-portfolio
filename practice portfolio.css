@@ -1,0 +1,33 @@
+#first-header{
+    color: blue;
+    text-align: center;
+    font-size: 65px;
+}
+
+.head-font{
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 30px;
+}
+.paragraph-style{
+        font-family: 'Hanalei Fill', cursive;
+    font-family: 'Lobster', cursive;
+    text-align: justify;
+}
+.head3-style{
+    font-family: 'Hanalei Fill', cursive;
+            font-family: 'Lobster', cursive;
+}
+.colorful-name{
+    color: rgb(255, 66, 19);
+}
+.first-div{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    
+}
+.first-div img{
+    width: 100%;
+}
+    
